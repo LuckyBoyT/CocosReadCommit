@@ -1,1 +1,1 @@
-# CocosReadCommit
+这是一个实现弹出小窗口控件的例子。
